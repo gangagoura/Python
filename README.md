@@ -1,4 +1,7 @@
 # Python
 estudos DE Python
 
-bootcamp digital innovation one BANCO CARREFOUR
+bootcamps digital innovation one 
+
+BANCO CARREFOUR
+COGNIZANT
