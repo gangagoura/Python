@@ -2,7 +2,7 @@ lass Difference:
     def __init__(self, a):
         self.__elements = a
 
-# Add your code here
+
     def computeDifference(self):
         maxDiff = 0
         arr = self.__elements
@@ -12,7 +12,7 @@ lass Difference:
                     maxDiff = abs(arr[j] - arr[i])
         self.maximumDifference = maxDiff
 
-# End of Difference class
+
 
 _ = raw_input()
 a = [int(e) for e in raw_input().split(' ')]
